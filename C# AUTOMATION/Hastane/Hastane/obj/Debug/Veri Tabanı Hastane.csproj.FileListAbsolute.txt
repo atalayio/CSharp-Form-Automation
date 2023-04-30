@@ -1,0 +1,136 @@
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.Licensing.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Veri Tabanı Hastane.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.anasayfa.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.abone.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.calisanlar.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.giris.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.guncel_not.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.hasta.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.hasta_ekle.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.hasta_sil.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.timer.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Veri Tabanı Hastane.csproj.GenerateResource.cache
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Veri Tabanı Hastane.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Veri Tabanı Hastane.csproj.CopyComplete
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.giris_kul.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.anasayfa_kul.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.timer_kul.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.doktor_bilgi.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.exe.licenses
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.adres_doktor.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.adres.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.kullanici.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.randevu_tablo.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.abone_islem.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.abone_menu.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.abone_menu_kopya.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.doktor_kul_bilgi.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.adres_resepsiyon.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.resepsiyon.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.adres_temizlikci.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.temizlikci_bilgi.resources
+C:\Users\User\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.sunucu_isim.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Veri Tabanı Hastane.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.abone_islem.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.abone_menu.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.abone_menu_kopya.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.adres_doktor.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.adres_temizlikci.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.adres_resepsiyon.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.anasayfa.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.abone.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.anasayfa_kul.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.calisanlar.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.doktor_kul_bilgi.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.doktor_bilgi.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.giris.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.giris_kul.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.guncel_not.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.sunucu_isim.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.temizlikci_bilgi.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.hasta.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.hasta_ekle.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.hasta_sil.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.randevu_tablo.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.adres.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.kullanici.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.resepsiyon.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.timer.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.timer_kul.resources
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Veri Tabanı Hastane.csproj.GenerateResource.cache
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.exe.licenses
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\Emin\Desktop\repos\C# AUTOMATION\Hastane\Hastane\obj\Debug\Hastane.pdb

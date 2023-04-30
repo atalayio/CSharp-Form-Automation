@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ED0ED250-61E0-4171-A360-DFACB2A2347E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Hastane</RootNamespace>
+    <AssemblyName>Hastane</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.1.5.3, Version=1.5.3.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGauge, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGradientPanel, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuGradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGroupBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuGroupBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuProgressBar, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRating, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuRating.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSeparator, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuSeparator.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShadowPanel, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShapes, Version=4.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuShapes.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSnackbar, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuSnackbar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToggleSwitch, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuToggleSwitch.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToolTip, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.Deprecated, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.4.1.1\lib\Bunifu.UI.WinForms.Deprecated.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.4\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="abone_islem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="abone_islem.Designer.cs">
+      <DependentUpon>abone_islem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="abone_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="abone_menu.Designer.cs">
+      <DependentUpon>abone_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="abone_menu_kopya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="abone_menu_kopya.Designer.cs">
+      <DependentUpon>abone_menu_kopya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adres_doktor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adres_doktor.Designer.cs">
+      <DependentUpon>adres_doktor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adres_temizlikci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adres_temizlikci.Designer.cs">
+      <DependentUpon>adres_temizlikci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anasayfa.Designer.cs">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="abone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="abone.Designer.cs">
+      <DependentUpon>abone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anasayfa_kul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anasayfa_kul.Designer.cs">
+      <DependentUpon>anasayfa_kul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisanlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisanlar.Designer.cs">
+      <DependentUpon>calisanlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doktor_kul_bilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doktor_kul_bilgi.Designer.cs">
+      <DependentUpon>doktor_kul_bilgi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="randevu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="randevu.Designer.cs">
+      <DependentUpon>randevu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doktor_bilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doktor_bilgi.Designer.cs">
+      <DependentUpon>doktor_bilgi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris_kul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris_kul.Designer.cs">
+      <DependentUpon>giris_kul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="guncel_not.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guncel_not.Designer.cs">
+      <DependentUpon>guncel_not.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sunucu_isim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sunucu_isim.Designer.cs">
+      <DependentUpon>sunucu_isim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temizlikci_bilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temizlikci_bilgi.Designer.cs">
+      <DependentUpon>temizlikci_bilgi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hasta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hasta.Designer.cs">
+      <DependentUpon>hasta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hasta_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hasta_ekle.Designer.cs">
+      <DependentUpon>hasta_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hasta_sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hasta_sil.Designer.cs">
+      <DependentUpon>hasta_sil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="randevu_tablo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="randevu_tablo.Designer.cs">
+      <DependentUpon>randevu_tablo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adres.Designer.cs">
+      <DependentUpon>adres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici.Designer.cs">
+      <DependentUpon>kullanici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="resepsiyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resepsiyon.Designer.cs">
+      <DependentUpon>resepsiyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adres_resepsiyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adres_resepsiyon.Designer.cs">
+      <DependentUpon>adres_resepsiyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timer_kul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timer_kul.Designer.cs">
+      <DependentUpon>timer_kul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timer.Designer.cs">
+      <DependentUpon>timer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="abone_islem.resx">
+      <DependentUpon>abone_islem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="abone_menu.resx">
+      <DependentUpon>abone_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="abone_menu_kopya.resx">
+      <DependentUpon>abone_menu_kopya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adres_doktor.resx">
+      <DependentUpon>adres_doktor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adres_temizlikci.resx">
+      <DependentUpon>adres_temizlikci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adres_resepsiyon.resx">
+      <DependentUpon>adres_resepsiyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anasayfa.resx">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="abone.resx">
+      <DependentUpon>abone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anasayfa_kul.resx">
+      <DependentUpon>anasayfa_kul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisanlar.resx">
+      <DependentUpon>calisanlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doktor_kul_bilgi.resx">
+      <DependentUpon>doktor_kul_bilgi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="randevu.resx">
+      <DependentUpon>randevu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doktor_bilgi.resx">
+      <DependentUpon>doktor_bilgi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris_kul.resx">
+      <DependentUpon>giris_kul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guncel_not.resx">
+      <DependentUpon>guncel_not.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sunucu_isim.resx">
+      <DependentUpon>sunucu_isim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temizlikci_bilgi.resx">
+      <DependentUpon>temizlikci_bilgi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hasta.resx">
+      <DependentUpon>hasta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hasta_ekle.resx">
+      <DependentUpon>hasta_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hasta_sil.resx">
+      <DependentUpon>hasta_sil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="randevu_tablo.resx">
+      <DependentUpon>randevu_tablo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adres.resx">
+      <DependentUpon>adres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanici.resx">
+      <DependentUpon>kullanici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="resepsiyon.resx">
+      <DependentUpon>resepsiyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timer.resx">
+      <DependentUpon>timer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timer_kul.resx">
+      <DependentUpon>timer_kul.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

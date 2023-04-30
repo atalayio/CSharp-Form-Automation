@@ -1,0 +1,352 @@
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Hastane.exe.config
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Hastane.exe
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Hastane.pdb
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Guna.UI2.dll
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.csproj.CopyComplete
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.exe
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.pdb
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.giris.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.anasayfa.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.hasta.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.abone.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.hasta_ekle.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.timer.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.guncel_not.resources
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.Licensing.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\kodlar vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.hasta_sil.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.hasta_bilgi.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.calisanlar.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.laboratuvar.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.istatistik.resources
+D:\kodlar vs\Hastane\Hastane\obj\Debug\Hastane.ayarlar.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Guna.UI2.dll
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.anasayfa.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.abone.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.ayarlar.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.calisanlar.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.giris.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.guncel_not.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.hasta.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.hasta_bilgi.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.hasta_ekle.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.hasta_sil.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.istatistik.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.laboratuvar.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.timer.resources
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.csproj.CopyComplete
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\Ömer\Desktop\veritabanı ve vs\hastane\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Guna.UI2.dll
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.anasayfa.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.abone.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.ayarlar.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.calisanlar.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.giris.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.guncel_not.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.hasta.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.hasta_bilgi.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.hasta_ekle.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.hasta_sil.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.istatistik.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.laboratuvar.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.timer.resources
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.CopyComplete
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\Ömer\Desktop\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Guna.UI2.dll
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.anasayfa.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.abone.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.ayarlar.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.calisanlar.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.giris.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.guncel_not.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.hasta.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.hasta_bilgi.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.hasta_ekle.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.hasta_sil.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.istatistik.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.laboratuvar.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.timer.resources
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.csproj.CopyComplete
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\Ömer\Desktop\hastane new vs\Hastane\Hastane\obj\Debug\Hastane.pdb
